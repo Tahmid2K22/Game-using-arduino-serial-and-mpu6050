@@ -1,2 +1,2 @@
 # Game-using-arduino-serial-and-mpu6050
-ARDUINO
+A fun, interactive desktop game built using Arduino and MPU6050 IMU sensor for tilt-based control. The Arduino reads accelerometer and gyroscope data from the MPU6050, sends it over serial to a Python script running Pygame on the PC. Tilting the sensor steers or controls game elements in real-time ,demonstrating seamless hardware-software integration, sensor data processing, serial communication, and creative input methods. Perfect showcase of embedded systems, real-time interfacing, and DIY game controller concepts.
